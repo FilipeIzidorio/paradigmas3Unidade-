@@ -1,0 +1,5 @@
+(define (filtro-pares lista)
+  (filter (lambda (x) (= (modulo x 2) 0)) lista));
+
+
+filtro-pares (1 2 3 4 5 6)); Resultado: '(2 4 6)

@@ -1,0 +1,5 @@
+(define (soma-quadrados lista)
+  (fold + 0 (map (lambda (x) (* x x)) lista)))
+
+; Exemplo
+(soma-quadrados '(1 2 3 4)) ; Resultado: 30

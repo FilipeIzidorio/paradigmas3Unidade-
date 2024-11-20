@@ -1,0 +1,30 @@
+    Paradigma Estruturado
+        Descrição: O paradigma estruturado foca em dividir um programa em blocos lógicos, utilizando estruturas como sequências, decisões (condicionais) e repetições (laços). Ele enfatiza a clareza do fluxo de controle e a modularidade, promovendo o uso de sub-rotinas (funções/procedimentos).
+        Características principais:
+            Fluxo de controle claro e sequencial.
+            Uso de estruturas como if, while, e for.
+             Ênfase na decomposição do problema em subproblemas menores (modularização).
+
+    Paradigma Funcional
+        Descrição: O paradigma funcional trata a computação como avaliação de funções matemáticas. Ele evita estados mutáveis e dados globais, preferindo trabalhar com imutabilidade e funções puras (sem efeitos colaterais).
+        Características principais:
+            Uso de funções como cidadãos de primeira classe (funções podem ser passadas como argumentos e retornadas).
+            Ênfase em expressões e imutabilidade de dados.
+            Dependência de construções como recursão em vez de loops imperativos.
+
+    Vantagens e desvantagens
+
+Paradigma Estruturado	  |          Vantagens	                                                                                  |       Desvantagens
+
+
+Vantagens:	              |      Mais fácil de aprender para iniciantes devido à sua proximidade com a lógica sequencial.         |            Mais verboso e pode levar a códigos repetitivos.
+
+
+Desvantagens:             |	Ideal para problemas com fluxo de controle bem definido.	                                          |         Menor reutilização e flexibilidade comparado ao funcional.
+
+
+
+Funcional:          	  | Evita efeitos colaterais, facilitando testes e depuração.	                                           |        Pode ser mais difícil de entender inicialmente.
+
+
+	                      |Mais conciso e expressivo.	                                                                           |        Menor desempenho em alguns casos devido à dependência de recursão.
